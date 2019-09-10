@@ -1,6 +1,6 @@
 {
-  "name": "leaf-browser",
-  "repository": "https://github.com/samlanning/hex-browser.git",
+  "name": "terra-browser",
+  "repository": "https://github.com/TTCM-Enterprises/leaf-browser.git",
   "version": "0.1.2",
   "devDependencies": {
     "grunt": "^0.4.5",
